@@ -7,7 +7,7 @@ function addincome() {
     var user_input = document.getElementById("input")
     var user_input_value = user_input.value;
     html_income.innerHTML = user_input_value;
-    balanceAndsavings()
+    balanceAndsavings();
 
 }
 function addexpense() {

@@ -17,8 +17,6 @@ body {
     height: 100%;
     background-color: black;
     color: var(--text);
-    /* overflow:scroll; */
-
 }
 
 .main {
